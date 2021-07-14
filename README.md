@@ -1,3 +1,3 @@
 # XGitHubPages
 
-To Sneak a look of GitHub Pages, I created the repo.
+To sneak a look at GitHub Pages, I created the repo.
